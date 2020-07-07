@@ -1,0 +1,15 @@
+D:\PG\Sem A\OOPS\Coursework\Final
+g++ Main.cpp MyUi.cpp LinkedList.cpp FileOperations.cpp Desktop.cpp Laptop.cpp Server.cpp Computer.cpp Cpu.cpp Gpu.cpp Memory.cpp -o Main
+
+Desktop 21 Pravin 1 Navin 1 250 ssd 500 Windows
+Laptop Dell 2 Pravin 1 Navin 1 250 ssd 500 Windows 15.5
+Desktop 98 Rahul 1 Amit 1 250 ssd 500 Mac
+Laptop Acer 14 Navin 1 Pravin 1 250 ssd 500 Windows 15.5
+Desktop 8 Pravin 1 Navin 1 250 ssd 500 Windows
+Server 201 Pravin 1 Navin 1 250 ssd 500 Windows
+Desktop 102 Pravin 1 Navin 1 250 ssd 500 Windows
+Server 11 Pravin 1 Navin 1 250 ssd 500 Windows
+Desktop 101 Pravin 1 Navin 1 250 ssd 500 Windows
+
+Space
+gynik
